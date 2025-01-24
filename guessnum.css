@@ -1,0 +1,47 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(numbers.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heading1 {
+    text-align: center;
+}
+
+#heading2 {
+    text-align: center;
+}
+
+#heading3 {
+    text-align: center;
+}
+
+.form {
+    align-content: center;
+}
+
+.heading4 {
+    text-align: center;
+    color: red;
+}
+
+.heading5 {
+    text-align: center;
+    color: red;
+}
+
+.loworhigh {
+    text-align: center;
+    color: red;
+}
+#guess{
+    color:black;
+}
